@@ -9,8 +9,69 @@
 <body>
     <h1>time work  </h1>
     <img src="https://leconomistemaghrebin.com/wp-content/uploads/2016/12/emploi-senior-3.png"alt="emploi" height="500" width="500">
-    <img src="https://enp-constantine.dz/wp-content/uploads/2021/03/Planning.jpg"alt="emploi"
+    <img src="https://enp-constantine.dz/wp-content/uploads/2021/03/Planning.jpg"alt="emploi"height="500"widht="500"
     <b>emploi du travaille</b>
+    <li><b>calandrier</b></li>
+    <li>jours</li>
+    <li>heurs</li>
+    <li>les pauses </li>
+    <a href=https://youtu.be/S2VxTg3F_3Y?t=6>gestion du  temps</a>
+    <table border="10">
+        <tr>
+          <th>jours</th>
+          <th>heurs</th>
+          <th>pause café</th>
+        </tr>
+        <tr>
+          <td>heurs supp</td>
+          <td>congé</td>
+          <td>nb absence</td>
+        </tr>
+        <tr>
+          <td>delai frs </td>
+          <td>delai client</td>
+          <td>delai de retard</td>
+        </tr>
+      </table>
+      < en-tête >la totalitè des heurs</en-t>
+      < principal >séance unique</principal>
+      < pied de page >sychroniser</pied>
+      <audio controls>
+        <source src="C:\Users\21658\Downloads\Regarde pour avoir CONFIANCE en Toi - H5 Motivation [Mpgun.com].mp3" type="audio/mpeg">
+            Please Check the audio Extension
+    </audio>
+    <nav>
+        <a href="/html/> HTML </a>
+        <a href="/css/> CSS </a>
+        <a href="/js/> JavaScript </a>
+        <a href="/jquery/> jQuery </a>
+        </nav> 
+        <section>
+            <h1> Contact des  fournisseur  <h1>
+            <p> time work Startup.. </p>
+        </section>
+        <form>
+            <label>Name:</label>
+            <input type="text" name="first name" placeholder="Type your name here" />
+            <br />
+      
+            <label>CIN:</label>
+            <input type="text" name="number" value="" />
+            <br />
+      
+            <label>Date de livraison:</label>
+            <input type="date" name="birthday" />
+            <br />
+      
+            <label>code de livraison:</label>
+            <input type="password" name="code" />
+            <br />
+      
+            <input type="submit" value="Submit" />
+          </form>
+          <iframe width="853" height="480" src="https://www.youtube.com/embed/S9dX_JEJoJQ" title="Gestion du temps : les conseils de Jim Rohn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     
+</ol>
+
 </body>
 </html>
