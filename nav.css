@@ -1,0 +1,26 @@
+#WD{
+    font-style: police;
+}
+nav {
+    color: rgb(135, 205, 248);
+    padding: 50px 50px;
+    font-size: 25px;
+    text-decoration: none;
+    text-align: center;
+    transition: step-start;
+    }
+nav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+nav {
+    background: rgb(176, 227, 247);
+    height: 100px;
+    width:100%;
+    }
+
+    
