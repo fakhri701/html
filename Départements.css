@@ -1,0 +1,44 @@
+.m {
+    
+    display: flex;
+    justify-content:space-between ;  
+        
+}
+#ro {
+    color: aquamarine;
+}
+#ro {
+    text-align: center;
+}
+#mc:hover {
+    
+    padding: 50px 50px;
+    font-size: 25px;
+    text-decoration: none;
+    transition: 2s;
+    float: left;
+  
+}
+.b {
+    display: flex;
+    justify-content:space-between ;
+
+}
+#cm:hover {
+    
+    padding: 50px 50px;
+    font-size: 25px;
+    text-decoration: none;
+    transition: 2s;
+    
+}
+#cm {
+    object-position: right ;
+      
+}
+.c {
+    
+        display: flex;
+        justify-content:space-between ;
+    
+}
