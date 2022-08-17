@@ -1,7 +1,8 @@
 .m {
     
     display: flex;
-    justify-content:space-between ;  
+    justify-content: center;
+    flex-direction: column;
         
 }
 #ro {
@@ -39,6 +40,6 @@
 .c {
     
         display: flex;
-        justify-content:space-between ;
+        justify-content:end ;
     
 }
